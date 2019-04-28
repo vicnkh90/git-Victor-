@@ -1,0 +1,21 @@
+Have fun!
+git branch p1
+git branch p2
+git branch p3
+git checkout p1
+git commit
+git commit
+git checkout p2
+git commit
+git commit
+git commit
+git checkout p3
+git commit
+git commit
+git commit
+git commit
+git checkout master
+git merge p1
+You have performed a fast-forward merge.
+git merge p2
+git merge p3
